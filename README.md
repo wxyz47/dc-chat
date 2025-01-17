@@ -49,10 +49,6 @@ python3 main.py
 - Be mindful of rate limits and server rules
 - Keep your token private and never share it with others
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Author
 
 GitHub: [@wxyz47](https://github.com/wxyz47)
